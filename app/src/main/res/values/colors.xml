@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSecondary">#808080</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBackground">#FCFCFC</color>
+    <color name="colorLightGray">#EDEDED</color>
+    <color name="colorLightBlue">#0099FF</color>
+    <color name="colorSemiDarkBlue">#0066FF</color>
+    <color name="colorDarkBlue">#3333FF</color>
+    <color name="colorDeepPurple">#7C4DFF</color>
+    <color name="colorMaterialOrange">#FF9933</color>
+    <color name="colorMaterialYellow">#FFB300</color>
+    <color name="colorMaterialGreen">#00BFA5</color>
+    <color name="colorPinkAccent">#FF4081</color>
+    <color name="colorModernTangerine">#E37222</color>
+    <color name="colorModernTeal">#07889B</color>
+    <color name="colorModernPowder">#66B9BF</color>
+    <color name="colorModernTan">#EEAA7B</color>
+    <color name="colorArtSunflowers">#FFCE00</color>
+    <color name="colorArtStarryNight">#0375B4</color>
+    <color name="colorArtIrises">#007849</color>
+    <color name="colorArtEvening">#262228</color>
+    <color name="colorCheerfulBlueberry">#6B7A8F</color>
+    <color name="colorCheerfulApricot">#F7882F</color>
+    <color name="colorCheerfulCitrus">#F7C331</color>
+    <color name="colorCheerfulAppleCore">#DCC7AA</color>
+    <color name="colorCleanFeather">#77C9D4</color>
+    <color name="colorCleanMarine">#57BC90</color>
+    <color name="colorCleanForest">#015249</color>
+    <color name="colorCleanSleekGrey">#A5A5AF</color>
+</resources>

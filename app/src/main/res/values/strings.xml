@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sub 4 - Match Favorites - Testing</string>
+    <string name="title_detail">Match Info</string>
+    <string name="past">Past</string>
+    <string name="next">Next</string>
+    <string name="favorites">Favorites</string>
+    <string name="title_past">Past 15 Matches</string>
+    <string name="title_next">Next 15 Matches</string>
+    <string name="textGoals">Goals</string>
+    <string name="textShots">Shots</string>
+    <string name="textGK">Goal Keeper</string>
+    <string name="textDF">Defense</string>
+    <string name="textMF">Midfield</string>
+    <string name="textFW">Forward</string>
+    <string name="textSubs">Substitutes</string>
+    <string name="titleFavorite">Favorite Matches</string>
+    <string name="added_to_fav">Ditambahkan ke Daftar Favorit</string>
+    <string name="removed_from_fav">Dihapus dari Daftar Favorit</string>
+    <string name="request_fail">Gagal menampilkan Logo Tim. Silahkan cek koneksi anda.</string>
+    <string name="strip"> - </string>
+    <string name="lineups">Lineups</string>
+</resources>
